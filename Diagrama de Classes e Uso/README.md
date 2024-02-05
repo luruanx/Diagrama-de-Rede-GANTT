@@ -1,4 +1,4 @@
-# Diagrama-de-Rede-GANTT
+# Diagramas de Casos de Uso e Classes
 ## Trabalho de Análise de Requisitos da disciplina de Análise (e Modelagem) de Sistemas.
 
 Implementação de um Sistema de Controle de Acesso, juntamente com os diagramas de casos de uso e de classes. O sistema é projetado para autenticar e autorizar o acesso de funcionários.
